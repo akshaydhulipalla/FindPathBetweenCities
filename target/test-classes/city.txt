@@ -1,0 +1,20 @@
+Boston, New York
+Boston, Providence
+New York, Washington DC
+New York, New Jersey
+New York, Harrisburg
+New York, Delaware
+Providence, New York
+Delaware, Dallas
+Chicago, Denver
+Denver, Las Vegas
+Las Vegas, Seattle
+Dallas, Austin
+Austin, Houston
+Houston,San Antonio
+San Antonio, Phoneix
+San Antonio, Las Vegas
+Las Vegas, Seattle
+New York, Chicago,
+New York, Hyderabad,
+Miami,San Fransisco
